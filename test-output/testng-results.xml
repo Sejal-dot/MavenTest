@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-07T21:53:53 EST" name="Default suite" finished-at="2021-01-07T21:54:26 EST" duration-ms="33181">
+    <groups>
+    </groups>
+    <test started-at="2021-01-07T21:53:53 EST" name="Default test" finished-at="2021-01-07T21:54:26 EST" duration-ms="33181">
+      <class name="Test.Login">
+        <test-method signature="negativelogin()[pri:0, instance:Test.Login@79efed2d]" started-at="2021-01-07T21:53:53 EST" name="negativelogin" finished-at="2021-01-07T21:54:12 EST" duration-ms="18935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativelogin -->
+        <test-method signature="register()[pri:0, instance:Test.Login@79efed2d]" started-at="2021-01-07T21:54:12 EST" name="register" finished-at="2021-01-07T21:54:26 EST" duration-ms="14231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+      </class> <!-- Test.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
